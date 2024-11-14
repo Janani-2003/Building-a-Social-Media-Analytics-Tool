@@ -7,7 +7,6 @@ CPU: Intel Core i5 AMD Ryzen 5 GPU: NVIDIA GeForce GTX 1660 or AMD Radeon RX 580
 #### Software requirements:
 Operating System: Windows 10 or Linux (Ubuntu, CentOS, or similar) IDE: VSCode ,PyCharm ,Eclipse SDK: MongoDB Language:Python
 ## Program 
-```
 ### Backend (Node.js + Express)
 ##### 1. backend/.env
 Create a .env file in the backend directory and add your MongoDB URI:
@@ -164,7 +163,6 @@ In the frontend folder, run:
 ```
 npm start
 ```
-  ```
 ## Output 
 ### Backend 
 ![image](https://github.com/user-attachments/assets/ed0803d1-55eb-4353-a95d-60b3bbbb3ca7)
